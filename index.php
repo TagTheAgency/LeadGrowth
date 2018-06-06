@@ -24,7 +24,7 @@
 					</div>
 					<div class="order-1 order-sm-2 col-10 col-sm-5 col-md-4">
 						<div class="img-container">
-							<img src="img/laptop-03.png" alt="laptop">
+							<img src="img/laptop.png" alt="laptop">
 						</div>
 					</div>
 				</div>
